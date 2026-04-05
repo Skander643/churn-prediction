@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+churn/
+venv/
+env/
+
+# MLflow
+mlruns/
+
+# Gradio
+.gradio/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (optional: keep only best ones)
+*.pkl
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
