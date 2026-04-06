@@ -1,6 +1,6 @@
 {
   "registry_name": "BankChurnBestModel",
-  "version": "2",
+  "version": "1",
   "run_name": "Random_Forest",
   "f1": 0.5841584158415841,
   "roc_auc": 0.8439163354417593,
